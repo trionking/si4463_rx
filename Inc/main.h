@@ -91,7 +91,7 @@ typedef unsigned char BIT;
 //#define UART_LOGGING_SUPPORT
 
 #define TRUE 1
-#define FALSE 1
+#define FALSE 0
 
 
 /* USER CODE END Private defines */
